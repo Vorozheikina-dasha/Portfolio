@@ -6,6 +6,15 @@
 
 Здесь собраны проекты, которые отражают мои навыки и инструменты, приобретенные во время обучения.
 
-[Анализ бизнес-показателей](https://github.com/Vorozheikina-dasha/Portfolio/tree/main/Анализ%20бизнес-показателей)
+**Список проектов**
+
+| Анализ бизнес-показателей |
+| : - - - - - - - - - - - - |
+| [Ссылка](https://github.com/Vorozheikina-dasha/Portfolio/tree/main/Анализ%20бизнес-показателей) |
+
+- [Анализ бизнес-показателей](https://github.com/Vorozheikina-dasha/Portfolio/tree/main/Анализ%20бизнес-показателей)
+- [Анализ закономерностей игр](https://github.com/Vorozheikina-dasha/Portfolio/tree/main/Анализ%20закономерностей%20игр)
+- [Анализ мобильного приложения](https://github.com/Vorozheikina-dasha/Portfolio/tree/main/Анализ%20мобильного%20приложения)
+- [Гео-анализ заведений Москвы](https://github.com/Vorozheikina-dasha/Portfolio/tree/main/ГЕО-анализ%20заведений%20Москвы)
 
 Welcome!
